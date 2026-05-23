@@ -13,10 +13,10 @@
 
 I build software around agents, developer workflows, and practical automation. I like small, sharp tools that make complex systems feel direct and usable.
 
-Right now my focus is on:
+Right now my focus is on two personal projects:
 
-- **[Zrode](https://github.com/0bkevin/zrode)**: a personal project I am actively shaping and experimenting with.
-- **[Brio](https://github.com/0bkevin/brio)**: an agent management app for controlling, connecting, and operating agent workflows.
+- **[Zrode](https://github.com/0bkevin/zrode)**: a minimal web GUI for coding agents. It is built around the idea that working with tools like Codex, Claude, and OpenCode should feel more visual, inspectable, and manageable than a pile of terminal sessions.
+- **[Brio](https://github.com/0bkevin/brio)**: a mobile control plane for Hermes Agent. It combines an Expo mobile app, a Go companion server, and a relay layer so agents can be paired, monitored, proxied, and controlled from a phone.
 
 ## What I Like Building
 
@@ -35,8 +35,8 @@ infra glue           automation             fast feedback loops
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| [Zrode](https://github.com/0bkevin/zrode) | Personal project and active build space | In progress |
-| [Brio](https://github.com/0bkevin/brio) | Agent management app | In progress |
+| [Zrode](https://github.com/0bkevin/zrode) | A lightweight web interface for running and managing coding agents across providers like Codex, Claude, and OpenCode. | In progress |
+| [Brio](https://github.com/0bkevin/brio) | A mobile-first control plane for Hermes Agent, with an Expo app, Go companion service, relay routing, pairing, sessions, logs, and management endpoints. | In progress |
 
 ## GitHub Signal
 
