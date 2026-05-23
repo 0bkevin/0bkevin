@@ -23,9 +23,7 @@ Product-minded software engineer focused on backend systems, infrastructure, ful
 
 ## Current Focus
 
-CTO at Proyecto Educa, leading product and technology direction for education-focused digital initiatives.
-
-Open to senior engineering, technical leadership, founding-engineer style, advisory, and selective consulting work.
+Open to backend, full-stack, orchestration, infrastructure, technical leadership, founding-engineer style, advisory, and selective consulting work.
 
 ## Beyond Code
 
