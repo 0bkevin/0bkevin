@@ -14,7 +14,7 @@ Product-minded software engineer focused on backend systems, infrastructure, ful
 
 ## Highlighted Projects
 
-- **[Zrode](https://github.com/0bkevin/zrode)**: a lightweight web interface for running and managing coding agents across providers like Codex, Claude, and OpenCode.
+- **[Zrode](https://github.com/0bkevin/zrode)**: an agentic development environment built to make coding agents feel like a real workspace, not scattered terminal sessions.
 - **[Brio](https://github.com/0bkevin/brio)**: a mobile-first control plane for Hermes Agent, built around pairing, sessions, relay routing, logs, and agent management from a phone.
 
 - Built Billingua Talent for AVAA and the U.S. Department of State's Venezuela Affairs Unit.
