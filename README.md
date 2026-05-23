@@ -1,56 +1,23 @@
-<div align="center">
+# Kevin Bravo
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=700&color=4F8CFF&center=true&vCenter=true&width=720&lines=Kevin+%7C+builder+of+agentic+tools;Systems%2C+product%2C+and+useful+interfaces;Currently+shipping+Zrode+and+Brio" alt="Typing headline" />
+Product-minded software engineer building backend systems, infrastructure, full-stack products, and AI-assisted workflows from rough ideas to production.
 
-<p>
-  <a href="https://github.com/0bkevin/zrode"><img src="https://img.shields.io/badge/Zrode-personal_project-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=4F8CFF" alt="Zrode badge"></a>
-  <a href="https://github.com/0bkevin/brio"><img src="https://img.shields.io/badge/Brio-agent_management_app-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=10B981" alt="Brio badge"></a>
-</p>
+I work best when the problem is still ambiguous: defining the architecture, modeling the data, connecting services, and shipping software that teams can rely on.
 
-</div>
+[Portfolio](https://www.kevinbravo.com) | [LinkedIn](https://www.linkedin.com/in/0bkevin/) | [Twitter/X](https://twitter.com/0bkevin) | [Email](mailto:0bravokevin@gmail.com)
 
-## Hey, I'm Kevin
+## Focus
 
-I build software around agents, developer workflows, and practical automation. I like small, sharp tools that make complex systems feel direct and usable.
+- CTO at Proyecto Educa, leading product and technology direction for education-focused digital initiatives.
+- Backend architecture, infrastructure, full-stack delivery, AI tooling, and internal operations.
+- Open to senior engineering, technical leadership, founding-engineer style, advisory, and selective consulting work.
 
-Right now my focus is on two personal projects:
+## Selected Work
 
-- **[Zrode](https://github.com/0bkevin/zrode)**: a minimal web GUI for coding agents. It is built around the idea that working with tools like Codex, Claude, and OpenCode should feel more visual, inspectable, and manageable than a pile of terminal sessions.
-- **[Brio](https://github.com/0bkevin/brio)**: a mobile control plane for Hermes Agent. It combines an Expo mobile app, a Go companion server, and a relay layer so agents can be paired, monitored, proxied, and controlled from a phone.
+- Built Billingua Talent for AVAA and the U.S. Department of State's Venezuela Affairs Unit.
+- Led a production platform migration at Free2Z from React to SvelteKit.
+- Built internal systems for AVAA and EducationUSA to replace scattered spreadsheets with operational platforms.
 
-## What I Like Building
+## Beyond Code
 
-```txt
-agent systems        local-first tools       product-grade interfaces
-infra glue           automation             fast feedback loops
-```
-
-## Current Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,ts,react,node,postgres,docker,github,linux" alt="Tech stack icons" />
-</p>
-
-## Projects In Motion
-
-| Project | What it is | Status |
-| --- | --- | --- |
-| [Zrode](https://github.com/0bkevin/zrode) | A lightweight web interface for running and managing coding agents across providers like Codex, Claude, and OpenCode. | In progress |
-| [Brio](https://github.com/0bkevin/brio) | A mobile-first control plane for Hermes Agent, with an Expo app, Go companion service, relay routing, pairing, sessions, logs, and management endpoints. | In progress |
-
-## GitHub Signal
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0bkevin&show_icons=true&hide_title=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=0bkevin&theme=transparent&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-<div align="center">
-
-**Building useful systems, one tight loop at a time.**
-
-</div>
+I am pursuing a Master of Public Administration at IESA and have spent years volunteering in education, leadership, technology access, and youth entrepreneurship initiatives.
