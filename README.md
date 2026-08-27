@@ -17,7 +17,6 @@ Product-minded software engineer focused on backend systems, infrastructure, ful
 - **[viamu](https://viamu.app)**: a multilingual platform for discovering global opportunities and preparing applications in private workspaces. Built with Nuxt, Vue, Expo, Go, PostgreSQL/pgvector, and Supabase Auth.
 - **[RegistroCiberVE](https://registrociberve.com)**: a bilingual, evidence-first registry and analytics explorer for cybersecurity incidents affecting Venezuelan organizations. Built with SvelteKit, TypeScript, Drizzle ORM, PostgreSQL, ECharts, and Cloudflare Workers.
 - **[Brio](https://github.com/0bkevin/brio)**: a mobile control plane for securely connecting to and managing Hermes Agent sessions, profiles, jobs, memory, and conversations. Built with Expo, React Native, Go, WebSockets, and PostgreSQL.
-- **[Zrode](https://github.com/0bkevin/zrode)**: an agentic development environment built to make coding agents feel like a real workspace, not scattered terminal sessions.
 
 - Built Billingua Talent for AVAA and the U.S. Department of State's Venezuela Affairs Unit.
 - Led a production platform migration at Free2Z from React to SvelteKit.
